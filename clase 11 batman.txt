@@ -1,0 +1,6 @@
+width: 120px;
+    height:  118px;
+    border-radius: 150%;
+    overflow: hidden;
+De Gonzalo Wulf para todos 12:56 AM
+drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
